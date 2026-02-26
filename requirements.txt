@@ -1,7 +1,6 @@
 pandas 
 gspread 
 google-auth
-os
 json
 logging
 typing
